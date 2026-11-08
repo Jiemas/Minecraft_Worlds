@@ -1,0 +1,20 @@
+{
+	// Max Microphone Cable Length [2, 32]
+	maxMicrophoneRange: 8,
+	// Max Wireless Microphone Range [2, 96]
+	maxWirelessMicrophoneRange: 32,
+	// Restrict Ender Music Box uploads to OPs
+	restrictEnderMusicBoxUploads: false,
+	// Max Upload Size in KB [0 for unlimited, 100000]
+	uploadLimitKB: 0,
+	// Shutdown server if Ender Music Box data loading fails
+	shutdownOnAudioLoadError: true,
+	// Base Radio Range [16, 4096]
+	radioBaseRange: 16,
+	// Added Range per Block Above Sea Level [0, 16]
+	worldHeightMultiplier: 0.0,
+	// Added Range per Transmission Tower Block [0, 128]
+	transmissionTowerMultiplier: 8.0,
+	// Max Height for Transmission Tower [0, 256]
+	maxTransmissionTowerHeight: 64
+}
