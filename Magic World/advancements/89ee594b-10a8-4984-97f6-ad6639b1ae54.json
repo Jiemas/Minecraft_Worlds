@@ -6182,5 +6182,95 @@
     },
     "done": true
   },
+  "spuds_shops:recipes/building_blocks/shop_dark_oak_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_birch_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_acacia_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_spruce_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_bamboo_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_crimson_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_oak_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_cherry_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/misc/contract_scroll": {
+    "criteria": {
+      "has_paper": "2026-11-14 09:54:14 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_jungle_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2026-11-14 11:49:52 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_window_calcite": {
+    "criteria": {
+      "has_calcite": "2026-11-14 11:15:42 -0800"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2026-11-14 11:46:34 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_mangrove_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
+  "spuds_shops:recipes/building_blocks/shop_warped_white": {
+    "criteria": {
+      "has_white_wool": "2026-11-14 09:48:55 -0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
